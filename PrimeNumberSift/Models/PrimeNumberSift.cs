@@ -14,8 +14,8 @@ namespace PrimeNumberSift
           if (i % j == 0) {
             count++; 
           }
-        }
-        if (count == 2) {
+        }      
+        if (count == 2 || i == 1) {
           primeNumberList.Add(i); 
         }
       }
