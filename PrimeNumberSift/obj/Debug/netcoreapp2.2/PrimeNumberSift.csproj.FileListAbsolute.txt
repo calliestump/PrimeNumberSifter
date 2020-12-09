@@ -1,0 +1,11 @@
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift\bin\Debug\netcoreapp2.2\PrimeNumberSift.deps.json
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift\bin\Debug\netcoreapp2.2\PrimeNumberSift.runtimeconfig.json
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift\bin\Debug\netcoreapp2.2\PrimeNumberSift.runtimeconfig.dev.json
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift\bin\Debug\netcoreapp2.2\PrimeNumberSift.dll
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift\bin\Debug\netcoreapp2.2\PrimeNumberSift.pdb
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift\obj\Debug\netcoreapp2.2\PrimeNumberSift.csprojAssemblyReference.cache
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift\obj\Debug\netcoreapp2.2\PrimeNumberSift.csproj.CoreCompileInputs.cache
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift\obj\Debug\netcoreapp2.2\PrimeNumberSift.AssemblyInfoInputs.cache
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift\obj\Debug\netcoreapp2.2\PrimeNumberSift.AssemblyInfo.cs
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift\obj\Debug\netcoreapp2.2\PrimeNumberSift.dll
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift\obj\Debug\netcoreapp2.2\PrimeNumberSift.pdb

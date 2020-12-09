@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\PrimeNumberSift.Solution\\PrimeNumberSift.Tests\\PrimeNumberSift.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\PrimeNumberSift.Solution\\PrimeNumberSift.Tests\\PrimeNumberSift.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\PrimeNumberSift.Solution\\PrimeNumberSift.Tests\\PrimeNumberSift.Tests.csproj",
+        "projectName": "PrimeNumberSift.Tests",
+        "projectPath": "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\PrimeNumberSift.Solution\\PrimeNumberSift.Tests\\PrimeNumberSift.Tests.csproj",
+        "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\PrimeNumberSift.Solution\\PrimeNumberSift.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\PrimeNumberSift.Solution\\PrimeNumberSift\\PrimeNumberSift.csproj": {
+                "projectPath": "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\PrimeNumberSift.Solution\\PrimeNumberSift\\PrimeNumberSift.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\PrimeNumberSift.Solution\\PrimeNumberSift\\PrimeNumberSift.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\PrimeNumberSift.Solution\\PrimeNumberSift\\PrimeNumberSift.csproj",
+        "projectName": "PrimeNumberSift",
+        "projectPath": "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\PrimeNumberSift.Solution\\PrimeNumberSift\\PrimeNumberSift.csproj",
+        "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\PrimeNumberSift.Solution\\PrimeNumberSift\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
