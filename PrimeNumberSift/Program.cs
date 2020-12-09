@@ -1,7 +1,8 @@
 using System;
 using System.Collections.Generic;
 using PrimeNumberSift;
-public class Program
+
+public class PrimeSiftProgram
 {
   public static void Main()
   {
