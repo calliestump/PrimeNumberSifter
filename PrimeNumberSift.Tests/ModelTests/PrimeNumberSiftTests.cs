@@ -1,17 +1,22 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
-using Project;
+using PrimeNumberSift;
 
-namespace Project.Tests
+namespace PrimeNumberSift.Tests
 {
   [TestClass]
-  public class ClassTests
+  public class PrimeNumberSiftTests
   {
     [TestMethod]
-     public void Class_Action_Boolean()
+    public void PrimeNumbers_DeterminesDescendants_True()
     {
-      //testing code will go here
+      //List<int> primeNumberList = new List<int> {};
+      PrimeSift primeNumberTest = new PrimeSift(); 
+      primeNumberTest.sifter(5); 
+      Assert.AreEqual(1, primeNumberTest.primeNumberList[0]);
+      Assert.AreEqual(2, primeNumberTest.primeNumberList[1]);
+      Assert.AreEqual(3, primeNumberTest.primeNumberList[2]);
+      Assert.AreEqual(5, primeNumberTest.primeNumberList[3]);
     }
-    // Test method will go here
   }
 }

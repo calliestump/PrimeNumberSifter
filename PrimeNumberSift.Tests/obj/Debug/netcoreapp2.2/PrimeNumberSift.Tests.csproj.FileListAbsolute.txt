@@ -1,0 +1,17 @@
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift.tests\bin\Debug\netcoreapp2.2\PrimeNumberSift.Tests.deps.json
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift.tests\bin\Debug\netcoreapp2.2\PrimeNumberSift.Tests.runtimeconfig.json
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift.tests\bin\Debug\netcoreapp2.2\PrimeNumberSift.Tests.runtimeconfig.dev.json
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift.tests\bin\Debug\netcoreapp2.2\PrimeNumberSift.Tests.dll
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift.tests\bin\Debug\netcoreapp2.2\PrimeNumberSift.Tests.pdb
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift.tests\bin\Debug\netcoreapp2.2\PrimeNumberSift.dll
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift.tests\bin\Debug\netcoreapp2.2\PrimeNumberSift.pdb
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift.tests\obj\Debug\netcoreapp2.2\PrimeNumberSift.Tests.csprojAssemblyReference.cache
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift.tests\obj\Debug\netcoreapp2.2\PrimeNumberSift.Tests.csproj.CoreCompileInputs.cache
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift.tests\obj\Debug\netcoreapp2.2\PrimeNumberSift.Tests.AssemblyInfoInputs.cache
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift.tests\obj\Debug\netcoreapp2.2\PrimeNumberSift.Tests.AssemblyInfo.cs
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift.tests\obj\Debug\netcoreapp2.2\PrimeNumberSift.Tests.csproj.CopyComplete
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift.tests\obj\Debug\netcoreapp2.2\PrimeNumberSift.Tests.dll
+C:\Users\josep\onedrive\desktop\template\thirdtemplate\primenumbersift.solution\primenumbersift.tests\obj\Debug\netcoreapp2.2\PrimeNumberSift.Tests.pdb

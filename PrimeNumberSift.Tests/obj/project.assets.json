@@ -5846,11 +5846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\PrimeNumberSift.Solution\\PrimeNumberSift.Tests\\PrimeNumberSift.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\primenumbersift.solution\\primenumbersift.tests\\PrimeNumberSift.Tests.csproj",
       "projectName": "PrimeNumberSift.Tests",
-      "projectPath": "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\PrimeNumberSift.Solution\\PrimeNumberSift.Tests\\PrimeNumberSift.Tests.csproj",
+      "projectPath": "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\primenumbersift.solution\\primenumbersift.tests\\PrimeNumberSift.Tests.csproj",
       "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\PrimeNumberSift.Solution\\PrimeNumberSift.Tests\\obj\\",
+      "outputPath": "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\primenumbersift.solution\\primenumbersift.tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5867,8 +5867,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\PrimeNumberSift.Solution\\PrimeNumberSift\\PrimeNumberSift.csproj": {
-              "projectPath": "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\PrimeNumberSift.Solution\\PrimeNumberSift\\PrimeNumberSift.csproj"
+            "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\primenumbersift.solution\\PrimeNumberSift\\PrimeNumberSift.csproj": {
+              "projectPath": "C:\\Users\\josep\\onedrive\\desktop\\template\\thirdtemplate\\primenumbersift.solution\\PrimeNumberSift\\PrimeNumberSift.csproj"
             }
           }
         }
